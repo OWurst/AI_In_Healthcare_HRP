@@ -1,0 +1,17 @@
+setuptools
+wheel
+pandas
+ipykernel
+jupyter
+tqdm
+mysql-connector-python
+pyyaml
+transformers
+torch
+spacy
+scispacy
+nltk
+scikit-learn
+gensim
+medspacy
+gpt4all
